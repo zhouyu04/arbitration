@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arbitration.iml" filepath="$PROJECT_DIR$/arbitration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arbitration-api/arbitration-api.iml" filepath="$PROJECT_DIR$/arbitration-api/arbitration-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arbitration-common/arbitration-common.iml" filepath="$PROJECT_DIR$/arbitration-common/arbitration-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arbitration-persistence/arbitration-persistence.iml" filepath="$PROJECT_DIR$/arbitration-persistence/arbitration-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arbitration-server/arbitration-server.iml" filepath="$PROJECT_DIR$/arbitration-server/arbitration-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arbitration-web/arbitration-web.iml" filepath="$PROJECT_DIR$/arbitration-web/arbitration-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arbitration-ws/arbitration-ws.iml" filepath="$PROJECT_DIR$/arbitration-ws/arbitration-ws.iml" />
+    </modules>
+  </component>
+</project>

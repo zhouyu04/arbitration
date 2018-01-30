@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="arbitration-api" />
+        <module name="arbitration-common" />
+        <module name="arbitration-persistence" />
+        <module name="arbitration-server" />
+        <module name="arbitration-web" />
+        <module name="arbitration-ws" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="arbitration" target="1.5" />
+      <module name="arbitration-api" target="1.5" />
+      <module name="arbitration-common" target="1.5" />
+      <module name="arbitration-persistence" target="1.5" />
+      <module name="arbitration-server" target="1.5" />
+      <module name="arbitration-web" target="1.5" />
+      <module name="arbitration-ws" target="1.5" />
+      <module name="arbitrationcommon" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
